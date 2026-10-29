@@ -1,0 +1,1 @@
+[ho ](https://github.com/power80it/ha-didup/tree/main) gestisce correttamente il login. Ora provo ultimo tuo commit ma non ho capito come si scaricano i file allegati dalla bacecha ne su questo tuo repo ne su quello di HomeAssistant.
